@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **DSG-DevShark/DSG-DevShark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Perfil de David Sánchez Gómez
+
+Manejo de la terminal en Linux.
+
+Conocimientos en Python y los principios SOLID.
+
+**Mi objetivo es ser Desarrollador Blockchain.**

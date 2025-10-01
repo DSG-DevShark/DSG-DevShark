@@ -43,5 +43,3 @@ Para lograrlo, estoy trazando un camino que une **el Web moderno, IA y Cibersegu
 ## ✨ Cita Personal
 
 *"Aprendo a construir soluciones que piensan, se conectan y se sostienen solas. IA, Web3 y automatización son el terreno donde estoy sembrando mi futuro."*
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=5d5875) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=5d5875)

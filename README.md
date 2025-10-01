@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 <h1 align="center">👋 Hola, soy David Sánchez Gómez | DevShark 🦈</h1>
 <h3 align="center">Unificando Blockchain, IA y Desarrollo Web</h3>
 
+---
+
+## Sobre mí
+Soy un desarrollador en formación intermedia con visión clara: **convertirme en Desarrollador Blockchain**.  
+Me apasiona integrar **Web moderno, Python, IA y Ciberseguridad** para crear soluciones innovadoras, seguras y funcionales.  
+
+- Actualmente:
+    - Reforzando **Front-End (HTML, CSS)**  
+    - Mejorando mi nivel en **Python** con enfoque en automatización y ciberseguridad
+- Próximas metas:
+    - **IA generativa y agentes inteligentes** (LangChain, CrewAI, LangGraph)
+    - **Desarrollo Blockchain** (Solidity, dApps, Web3.js)
+
 #### Tecnologías
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=5d5875)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=5d5875)]()

@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hola, soy David Sánchez 👋
-
-
-**Mi objetivo es ser Desarrollador Blockchain.**
+<h1 align="center">👋 Hola, soy David Sánchez Gómez | DevShark 🦈</h1>
+<h3 align="center">Unificando Blockchain, IA y Desarrollo Web</h3>
 
 #### Tecnologías
 

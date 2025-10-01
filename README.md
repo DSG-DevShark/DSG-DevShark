@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ---
 
 ## Sobre mí
-Soy un desarrollador en formación intermedia con visión clara: **convertirme en Desarrollador Blockchain**.  
-Me apasiona integrar **Web moderno, Python, IA y Ciberseguridad** para crear soluciones innovadoras, seguras y funcionales.  
+Soy un desarrollador en formación intermedia con visión clara: **convertirme en Desarrollador Blockchain**.
+Para lograrlo, estoy trazando un camino que une **el Web moderno, IA y Ciberseguridad**, con la meta de crear soluciones innovadoras, seguras y funcionales.
 
 - Actualmente:
     - Reforzando **Front-End (HTML, CSS)**  

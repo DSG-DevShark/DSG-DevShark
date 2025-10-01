@@ -36,6 +36,7 @@ Para lograrlo, estoy trazando un camino que une **el Web moderno, IA y Cibersegu
 #### Front-End
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=5d5875)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,Cjxzdmcgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHRpdGxlPkNTUzM8L3RpdGxlPgogIDxwYXRoIGZpbGw9IiMxNTcyQjYiIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTIgMjRsLTguNTktMi40MzhMMS41IDAemTAgN ... )
 
 - Linux
 - Python, principios SOLID
